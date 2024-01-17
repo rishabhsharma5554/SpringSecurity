@@ -11,4 +11,5 @@ public class UserController {
 		// Add your logic here
 		return("<h1>Welcome to Homepage</h1>");
 	}
+	
 }
