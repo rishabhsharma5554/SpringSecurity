@@ -1,0 +1,7 @@
+default creds
+username - user
+passowrd - in console
+
+
+AuthenticationManager -> does authentication  
+	authenticate()

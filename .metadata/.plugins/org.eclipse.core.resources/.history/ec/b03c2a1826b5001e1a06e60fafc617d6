@@ -1,0 +1,6 @@
+package com.rishabhtech.DemoBasicSecurity.SecurityConfig;
+import org.springframework.context.annotation.Configuration;
+
+public class SpringSecurity {
+	
+}
