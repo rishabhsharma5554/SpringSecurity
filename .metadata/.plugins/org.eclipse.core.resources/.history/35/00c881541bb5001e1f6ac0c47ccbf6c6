@@ -1,0 +1,13 @@
+package com.rishabhtech.DemoBasicSecurity.UserController;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class UserController {
+	GetMapping("/users")
+	public String getUsers() {
+		// Add your logic here
+		return("<h1>Welcome to Homepage</h1>");
+	}
+	
+}
